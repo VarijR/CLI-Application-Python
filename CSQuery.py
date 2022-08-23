@@ -1,7 +1,8 @@
 '''
  --> Name:- Varij Rughani
  --> Creating a CLI application using argparse to get userinput from terminal and 
-     it will show to get data from db and show on terminal & then it creates a histogram if option -p is given to it 
+     it will show to get data from db and show on terminal 
+ --> And then it creates a histogram if option -p is given to it 
 '''
 
 import sqlite3
